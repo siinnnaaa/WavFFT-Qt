@@ -117,7 +117,8 @@ WavFFT-Qt/
 
 ## 📸 Screenshots
 
-> *Add screenshots of your application here*
+> <img width="1275" height="754" alt="main" src="https://github.com/user-attachments/assets/8c7153d4-bc83-45e2-acaf-c3cf0209288b" />
+
 
 ---
 
