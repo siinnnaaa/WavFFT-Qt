@@ -47,8 +47,9 @@ Before building the project, ensure you have the following installed:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/[your-username]/WavFFT-Qt.git
+git clone https://github.com/siinnnaaa/WavFFT-Qt.git
 cd WavFFT-Qt
+
 ```
 
 ### 2. Download and install FFTW
